@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "823666022298",
+    "firebase_url": "https://lessnone-2dc7e.firebaseio.com",
+    "project_id": "lessnone-2dc7e",
+    "storage_bucket": "lessnone-2dc7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823666022298:android:4f2f1e3bc5eb5cda094c23",
+        "android_client_info": {
+          "package_name": "EcommerceApp.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhOrfKPsgV959awxMoEbOJgFaavmqohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823666022298:android:fc5431885752f5a9094c23",
+        "android_client_info": {
+          "package_name": "com.example.e_coomresapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhOrfKPsgV959awxMoEbOJgFaavmqohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823666022298:android:209b9095260782d3094c23",
+        "android_client_info": {
+          "package_name": "com.example.e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhOrfKPsgV959awxMoEbOJgFaavmqohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823666022298:android:09161f03ca967254094c23",
+        "android_client_info": {
+          "package_name": "com.flutter_webapp_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhOrfKPsgV959awxMoEbOJgFaavmqohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823666022298:android:3cfb5013ba28b333094c23",
+        "android_client_info": {
+          "package_name": "com.lessin_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhOrfKPsgV959awxMoEbOJgFaavmqohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823666022298-3utofcg3ret5nj3gmcqmmod52p4m2248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
